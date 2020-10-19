@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.redcolorbox{
+	box-sizing: border-box;
+	top: 0%;
+	left: 0%;
+	height: 24%;
+	width: 100%;
+	background-color: #ff5050;
+	border-style: none;
+	position: absolute;
+}
+
+.homebox{
+	box-sizing: border-box;
+	top: 3%;
+	left: 4%;
+	height: 7%;
+	width: 32%;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	border-radius: 40px;
+	position: absolute;
+}
+
+.contactusbox{
+	box-sizing: border-box;
+	top: 13%;
+	left: 3%;
+	height: 7%;
+	width: 34%;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	border-radius: 40px;
+	position: absolute;
+}
+
+.aboutusbox{
+	box-sizing: border-box;
+	top: 3%;
+	left: 65%;
+	height: 7%;
+	width: 32%;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	border-radius: 40px;
+	position: absolute;
+}
+
+.visitouryoutubechannelbox{
+	box-sizing: border-box;
+	top: 13%;
+	left: 65%;
+	height: 7%;
+	width: 32%;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	border-radius: 40px;
+	position: absolute;
+}
+
+.logoshape{
+    width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 5%;
+	left:37%;
+	box-sizing: border-box;
+	border-radius: 100%;
+	background: black;
+}
+
+.bringzealcloserbox{
+	box-sizing: border-box;
+	top: 20%;
+	left: 37%;
+	height: 7%;
+	width: 32%;
+	background-color: black;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	border-radius: 40px;
+	position: absolute;
+}
+
+h3{
+	font-family:arial, helvetica, sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 6px;
+	font-size: 26px;
+}
+
+.homebox h3 , .aboutusbox h3, .contactusbox h3{
+	margin-top: 18px; 
+}
+
+
+
+.graycolorbox{	
+    box-sizing: border-box;
+	top: 24%;
+	left: 0%;
+	height: 28%;
+	width: 100%;
+	background-color: gray;
+	border-top-style: solid;
+	border-top-width: 10px;
+	border-top-color: black;
+	position: absolute;
+}
+
+.marquee1{
+	top: 45%;
+	height: 5%;
+	width: 100%;
+	position: absolute;
+	color: red;
+	font-family: Comic Sans MS;
+	font-size: 35px;
+	border-style: solid;
+	border-color: black;
+	box-sizing: border-box;
+	left: 0%;
+	background-color: black;
+}
